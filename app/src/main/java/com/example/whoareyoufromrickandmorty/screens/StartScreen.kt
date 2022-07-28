@@ -88,7 +88,7 @@ fun StartScreen(
             )
 
             Text(
-                text = "...Rick and Morty",
+                text = "...Rick and Morty?",
                 fontSize = 30.sp,
                 fontWeight = FontWeight.Bold,
                 color = Color.White,
